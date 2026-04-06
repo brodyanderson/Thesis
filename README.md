@@ -1,5 +1,5 @@
 ## Master's Thesis: April 2026
-### Machine Learning Prediction of Lower-Body Soft-Tissue Injury in College Athletes Using Catapult &amp; Forcedecks Data
+### Classification of Lower-Body Soft-Tissue Injuries from Catapult &amp; Forcedecks Data
 
 ### Open the Jupyter notebook Thesis.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
