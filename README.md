@@ -1,4 +1,4 @@
-## Master's Thesis: April 2026
+## Master's Thesis: 2026
 ### Classification of Lower-Body Soft-Tissue Injuries from Catapult &amp; Forcedecks Data
 
 ### Open the Jupyter notebook Thesis.ipynb in Google colab.
