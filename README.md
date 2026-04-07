@@ -1,5 +1,5 @@
 ## Master's Thesis: 2026
-### Classification of Lower-Body Soft-Tissue Injuries from Catapult &amp; Forcedecks Data
+### Prediction of Lower-Body Soft-Tissue Injuries from Catapult &amp; Forcedecks Data
 
 ### Open the Jupyter notebook Thesis.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
